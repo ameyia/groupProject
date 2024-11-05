@@ -1,4 +1,5 @@
-# groupProject
-##Names 
+# Group Project
+## Names 
 (feel free to change this to look better)
-- Amelia McCrory 
+- Amelia McCrory
+- Noah Thompson
